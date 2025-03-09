@@ -7,3 +7,4 @@
 - tanstack query
 - react-error-boundary
 - react-toastify
+- tailwindcss 3버전
